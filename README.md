@@ -1,6 +1,6 @@
 # Gerenciamento de Despesas Pessoais
 
-Uma aplicação Flutter que gerencia despesas financeiras pessoais, exibe uma lista de entradas(receita) ou saídas(despesas) e permite edição e visualização de detalhes de cada transação.
+Uma aplicação Flutter que gerencia despesas financeiras pessoais, exibe uma lista de entradas(receita) ou saídas(despesas), permite edição e visualização de detalhes de cada transação.
 
 
 ## Features
