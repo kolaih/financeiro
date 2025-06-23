@@ -1,7 +1,5 @@
 # Gerenciamento de Despesas Pessoais
 
-[![Visit My Website](https://img.shields.io/badge/Visit%20My-Website-blue?style=for-the-badge&logo=arrow-right&logoColor=white)]([https://pokedex-ashy-tau-84.vercel.app/](https://financeiropessoal.vercel.app/))
-
 Uma aplicação Flutter que gerencia despesas financeiras pessoais, exibe uma lista de entradas(receita) ou saídas(despesas) e permite edição e visualização de detalhes de cada transação.
 
 
