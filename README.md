@@ -7,7 +7,7 @@ Uma aplicação Flutter que gerencia despesas financeiras pessoais, exibe uma li
 
 O aplicativo oferece as seguintes funcionalidades:
 
-* Cadastro e login local (armazenados no dispositivo)
+* Cadastro e login local (armazenados no dispositivo e localstorage)
 * Adição de entradas (receitas) e saídas (despesas)
 * Categorias para cada transação
 * Edição e exclusão de transações
